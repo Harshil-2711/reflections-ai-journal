@@ -1,0 +1,6 @@
+{
+  "name": "Reflections & Journal",
+  "description": "A secure, user-authenticated journaling and reflection application powered by Gemini AI and Cloud Firestore.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
